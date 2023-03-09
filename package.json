@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jayanth151002/resume-builder-backend.git"
+    "url": "git+https://github.com/jayanth151002/backend-boilerplate.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jayanth151002/resume-builder-backend/issues"
+    "url": "https://github.com/jayanth151002/backend-boilerplate/issues"
   },
-  "homepage": "https://github.com/jayanth151002/resume-builder-backend#readme",
+  "homepage": "https://github.com/jayanth151002/backend-boilerplate#readme",
   "dependencies": {
     "apollo-server-express": "^3.12.0",
     "express": "^4.18.2",
